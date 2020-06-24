@@ -27,15 +27,16 @@ pip install beautifulsoup4
 pip install XlsxWriter
 ```
 # Running the application
-Go to Windows Search Bar and search "**cmd**" and enter
-In the cmd window, enter this command line:
+1. Dowload the project on github: https://github.com/Deguise/cochrane_to_excel/archive/master.zip
+2. Go to Windows Search Bar and search "**cmd**" and enter.
+3. In the cmd window, enter this command line:
 ```
 python /path/to/your/manage.py runserver 8000
 ```
 
 # Use the tool
-Let the server run in your cmd.
-Open your web browser and go to this link: 
+1. Let the server run in your cmd.
+2. Open your web browser and go to this link: 
 ```
 localhost:8000
 ```
